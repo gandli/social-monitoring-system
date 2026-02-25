@@ -1,3 +1,5 @@
-# tobacco-monitoring-system
-## 项目概述
-详细内容请查看 PRD.md 文件。
+# Social Monitoring System
+
+An intelligent monitoring system for illegal activities on social platforms with NLP analysis, image recognition, real-time monitoring, and alert system.
+
+See [PRD.md](PRD.md) for detailed requirements.
